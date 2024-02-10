@@ -1,6 +1,8 @@
 ### Olá, bem vindo ao meu perfil💗
 
   Olá, meu nome é João Pedro e curso atualmente informática e o terceiro ao do ensino médio no IFSP- Instituto Federal de São Paulo.
+  ##
+  
 
   
 
