@@ -1,4 +1,8 @@
-### Hi there 👋
+### Olá, bem vindo ao meu perfil💗
+
+  Olá, meu nome é João Pedro e curso atualmente informática e o terceiro ao do ensino médio no IFSP- Instituto Federal de São Paulo.
+
+  
 
 <!--
 **jpfelixx/jpfelixx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
