@@ -1,6 +1,6 @@
 ### Olá, bem-vindo ao meu perfil!
 
-  Olá, meu nome é João Pedr e estou cursando informática e o terceiro ao do ensino médio no  Instituto Federal de São Paulo - campus São Paulo.
+  Olá, meu nome é João Pedro e estou cursando informática e o terceiro ao do ensino médio no  Instituto Federal de São Paulo - campus São Paulo.
   ##
 
 ### Áreas do conhecimento
